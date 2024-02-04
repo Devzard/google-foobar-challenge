@@ -58,26 +58,26 @@ Test cases
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
--- Java cases --
-Input:
-Solution.solution(2, 2, 2)
-Output:
+-- Java cases --  
+Input:  
+Solution.solution(2, 2, 2)  
+Output:  
     7
 
-Input:
-Solution.solution(2, 3, 4)
-Output:
+Input:  
+Solution.solution(2, 3, 4)  
+Output:  
     430
 
--- Python cases --
-Input:
-solution.solution(2, 3, 4)
-Output:
+-- Python cases --  
+Input:  
+solution.solution(2, 3, 4)  
+Output:  
     430
 
-Input:
-solution.solution(2, 2, 2)
-Output:
+Input:  
+solution.solution(2, 2, 2)  
+Output:  
     7
 
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.
