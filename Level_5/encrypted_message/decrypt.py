@@ -1,3 +1,11 @@
+"""
+After completing all the challenges this secret encoded message is recevied.
+The message can be decoded using your username as key.
+It outputs this dictionary:
+{'success' : 'great', 'colleague' : 'esteemed', 'efforts' : 'incredible', 'achievement' : 'unlocked', 'rabbits' : 'safe', 'foo' : 'win!'}
+"""
+
+
 
 import base64
 
